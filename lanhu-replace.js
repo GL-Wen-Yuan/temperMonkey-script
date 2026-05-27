@@ -62,7 +62,7 @@
             text: '脚本已开启！',
             title: '我的脚本提示',
             image: 'https://img0.baidu.com/it/u=2716262577,4234438170&fm=253&app=138&f=JPEG?w=500&h=500',
-            timeout: 5000 // 5秒后自动消失
+            timeout: 6000 // 6秒后自动消失
         });
     }
  
